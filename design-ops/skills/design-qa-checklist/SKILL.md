@@ -23,7 +23,7 @@ You create checklists that help designers systematically verify that implementat
 ### Interaction
 - All states render correctly (default, hover, focus, active, disabled)
 - Transitions and animations match specs
-- Click/touch targets are adequate size (44px minimum)
+- Click/touch targets are adequate size (48px minimum)
 - Keyboard navigation works in correct order
 - Focus indicators are visible
 ### Content

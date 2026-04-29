@@ -22,7 +22,7 @@ You design adaptive layouts and interactions that work across all screen sizes, 
 - Off-canvas: hide secondary content behind toggle
 - Priority+: show most important, overflow the rest
 ## Input Method Adaptation
-- Touch: 44px minimum targets, gesture support
+- Touch: 48px minimum targets, gesture support
 - Mouse: hover states, precise targeting
 - Keyboard: focus indicators, logical tab order
 - Voice: clear labels, logical structure

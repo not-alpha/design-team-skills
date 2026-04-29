@@ -19,7 +19,7 @@ SVG source, sprite sheets, component wrappers, Figma library
 - Label or aria-hidden for every icon
 - Pair with text for critical actions
 - Sufficient contrast
-- 44x44px minimum touch targets
+- 48×48px minimum touch targets
 ## Best Practices
 - Audit and remove unused icons
 - Establish contribution workflow

@@ -100,7 +100,7 @@ Use a consistent note component. Don't over-annotate — notes are for the non-o
 
 When building Figma prototypes for demos, stakeholder walkthroughs, or usability testing:
 
-- **Tap zones** — must be large enough (44px minimum touch target)
+- **Tap zones** — must be large enough (48px minimum touch target)
 - **Modals** — appear from the bottom, dismiss downwards
 - **Dialogs** — have a transparent overlay and dismiss on tap outside
 - **Screen transitions** — follow Material navigation conventions
